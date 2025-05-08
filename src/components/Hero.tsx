@@ -1,3 +1,4 @@
+
 import { Button } from "@/components/ui/button";
 import Icon from "@/components/ui/icon";
 import { useEffect, useRef } from "react";
@@ -35,7 +36,7 @@ const Hero = () => {
             duration: 4000,
             fill: "forwards",
             easing: "ease",
-          },
+          }
         );
       }
     };
