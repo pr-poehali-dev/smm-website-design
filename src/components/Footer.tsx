@@ -1,4 +1,5 @@
-import Icon from "@/components/ui/icon";
+
+import Icon from '@/components/ui/icon';
 
 const Footer = () => {
   const scrollToSection = (id: string) => {
